@@ -4,7 +4,8 @@ development:
   encoding: utf8
   database: test_development
   username: root
-  password:
+  password: 
+  host: 127.0.0.1
 
 test:
   # Mysql Settings
@@ -12,7 +13,8 @@ test:
   encoding: utf8
   database: test_development
   username: root
-  password:
+  password: 
+  host: 127.0.0.1
 
 staging:
   # Mysql Settings
@@ -20,7 +22,8 @@ staging:
   encoding: utf8
   database: test_development
   username: root
-  password:  
+  password: 
+  host: 127.0.0.1
 
 production:
   # Mysql Settings
@@ -28,4 +31,5 @@ production:
   encoding: utf8
   database: test_development
   username: root
-  password:
+  password: 
+  host: 127.0.0.1
