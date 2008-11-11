@@ -4,7 +4,7 @@ development:
   encoding: utf8
   database: test_development
   username: root
-  password: 
+  password: halcy0n
   host: 127.0.0.1
 
 test:
@@ -13,7 +13,7 @@ test:
   encoding: utf8
   database: test_development
   username: root
-  password: 
+  password: halcy0n
   host: 127.0.0.1
 
 staging:
@@ -22,7 +22,7 @@ staging:
   encoding: utf8
   database: test_development
   username: root
-  password: 
+  password: halcy0n
   host: 127.0.0.1
 
 production:
@@ -31,5 +31,5 @@ production:
   encoding: utf8
   database: test_development
   username: root
-  password: 
+  password: halcy0n
   host: 127.0.0.1
